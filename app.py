@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Cloud PaaS Demo")
+st.title("Cloud PaaS Demo - Phiên bản đã cập nhật")
 st.write("Ứng dụng này được xây dựng bằng Python và Streamlit.")
 
 name = st.text_input("Nhập tên của bạn")
